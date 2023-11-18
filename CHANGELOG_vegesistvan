@@ -1,1 +1,9 @@
+10.141   2023.11.xx
+// A lineáris felmenői táblába "anya" oszlop berakása az azonos apa és különböző anya jelzésére.
+// A leszármazotti és felmenői táblázat méretének és a fejléc méretének igazítása az aktuális screen felbontásához
+// A táblázatol leszármazotti tábláját is elkészíti a tabulált lista mellett.
+// Az "Információk->A programváltozásokról" alatt a változásokat mutatja ameg.
+// A leszármazotti szálak hosszúság szerinti rendezése 1 generáció mélységig.
+
+
 initial import
