@@ -1,3 +1,9 @@
+10.142 2023.11.27
+// A felmenők CListCtrl táblázatai jönnek létre, onnan lehet a htm fájlokat kérni. 
+// Felmenők lineáris html táblájában a többszöri házasságok fehér/feketével kiemelve.
+// Leszármazott gyerekek sorrendje választható 
+
+
 10.141   2023.11.xx
 // A lineáris felmenői táblába "anya" oszlop berakása az azonos apa és különböző anya jelzésére.
 // A leszármazotti és felmenői táblázat méretének és a fejléc méretének igazítása az aktuális screen felbontásához
