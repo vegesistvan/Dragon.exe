@@ -1,4 +1,8 @@
-// 10. 145 Felmenők rajzának kiírása fájlba.
+10. 145 2023.12.14
+
+// Doc-View architektúrára áttérés
+// Felmenők rajzának kiírása fájlba.
+// Felmenő nevének, születési és halálozási évének megjelenítésa egér kattintásra
 // Felmenők leírásának javítása ( szóköz a név és posterios között)
 
 
