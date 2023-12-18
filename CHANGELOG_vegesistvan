@@ -1,4 +1,8 @@
-#define VERSION L"10.147"
+#define VERSION 10.148
+
+// 10.148 2023.12.08
+// Ribbon javítgatása
+
 
 // 10.147 2023.12.17
 // Ribbon módosítása az adatbázis forrása alapján
