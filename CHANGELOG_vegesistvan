@@ -1,6 +1,6 @@
-// 10.151 2023.12.XX
+// 10.151 2024.01.XX
 // Ismeretlen keresztnevek vizsgálatának, bevitelének átalakítása.
-// Házastársdak felbontásának átalakítása
+// Házastársak felbontásának átalakítása
 
 
 #define VERSION 10.150
