@@ -1,0 +1,218 @@
+11.230 2024.11.26 Kisérleti verzió, a lineáris leszármazottak paraméter-ablak elkészítésének lépéseinél kiírja az állapotot
+
+11.230 2024.11.26 leszármazotti hossznál a gyerek index (idC) csökkentése 1-el (mert 1-től kezdődik)
+
+11.129 2024.10.25 Lineáris lista végre jó lett
+
+11.128 2024.10.22 Lineáris lista javítása: ismétlődő személyek leszármazottainek elkülönítése
+
+ 11.227 2024.10.16 A 226 verzió rekonstruálása
+
+11.226 2024.10.15 Leszármazottil lista paramétereinek ellenőrzése és hiba esetén javítása
+
+11.225 2024.10.14 Picike javítás
+
+11.224 Lineáris leszármazotti listák javítása
+
+11.223 Lineáris leszármazotti listákban a gyerekek sorrendje 3 féle lehet.
+
+11.222 Személyek abortálása beolvasás után javítva.
+
+11.221 2024.10.07 A házastársak listája is CLIstCtrlView-ban
+
+
+11.220 2024.09.29 A személyek listázása CListCtrlView-ban. Lineáris leszármazotti listában választhatóü a de Tupigny számozás
+
+11.219 2024.09.19 Az Ahnenblatt-ba való belépés finomítása
+
+11.218 2024.09.19 A Dragon féle adatbevitel felújítása
+
+11.217 2024.09.11  A lineáris leszármazotti lista ListCtrlU és ListCtrl táblása ownerdraw leet, mert a 263-nál hosszabb sorokat csonkította.
+
+11.216 2024.09.10 Az azonos nevű házaspárokat összevonja
+
+11.215 2024.09.10 Javítgatások
+
+11.214 2024.09.07 Ahnenblatt javítás
+
+11.213 2024.09.07 Ahnenblatt adatbevitel javítása
+
+11.212 2024.09.06 A pictures táblát áthelyeztem a mainDB-be és a blobDB-t megszüntettem
+
+10.211 2024.09.03 Hibás GEDCOM NAME tagek javítása
+
+10.209 2024.09.02 GEDSCOM hibajavítás javítása
+
+10.208 2024.09.02 GEDCOM NAME tag beolvasás hibajavítása. 
+
+10.207 2024.09.01 Személyek/Házastársak Category a Ribbonban
+
+10.206 2024.08.31 Lineáris leszármazotti listán az A=0 magyarázata, felmenői listán az azonosító magyarázata
+
+10.205 2024.08.25  GEDCOM beolvasásnál fellépő hiba javítása
+
+10.204 2024.08.19 felmenők garfikus ábrázolásának fejlesztése
+
+10.203 2024.08.15 felmenők grafikus ábrázolása
+
+10.202 2024.08.08 Ahnenblatt bevitel graffikus képernyőjénel első változata
+
+10.201 2024.08.02 Zárójelek ellenőrzésekor az első oszlopban 'error==1', ha hibás a sor
+
+10.200 2024.07.25 GATXT és GAHTM leszármazotti listák javítgatása
+
+10.199 2024.07.23 GATXT tábla header beolvasásának módosítása ( egy sorként kezeli)
+
+10.198 2024.07.22 GATXT leszármazotti tábla
+
+10-196 2024.07.14 Apróbb módosítások
+
+10.195. 2024.07.01 Scroll a nevek ellenőrzése ablakban.
+
+10.194 2024.06.29 D'Aragona kezelése leszármazotti és felmenői listákban
+
+10.193 2024.06.28 felmenői piramis sorozatok. Beolvasási lista kérésre 
+
+10.192 2024.06.17 Felmenők piramis-rajza Hadik-Barkóczy Adél (Etelka)-ra torzítva 
+
+10.191 2024.06.17 Lineáris felmenői lista sorszámozása 1-től
+
+10.190 2024.06.16 Beolvasáskor menthető a beolvasott sorok sorszáma. Felmenői piramis fehér háttérrel
+
+10.189 2024.06.15 Többszörös házasságok javítása
+
+10.188 2024.06.10 Nme hivatkozotzt bejegyzések javítása
+
+10.187 2024.06.05 Új beolvasás javítása (fejléc-előnév)
+
+10.186 2024.05.03 Új html beolvasó funkció és adatbáziosok összehasonlítása
+
+10.183 2024.03.19 Keresztnév adatbázisok összevonása
+
+10.182 2024.03.15 GEDCOM SURN-ben kisbetűs előnév és családnév
+
+10.181 2024.03.14 Apró kiegészítések
+
+10.180 2024.03.10 Családnév változások javítása a html beolvasásakor 
+
+10.179 2024.03.08 ABCD funkció a lineáris leszármazotti lista menüjében
+
+10.178 2024.03.05 leszármazotti hosszra rendezett html listában a leírás ismétlődésének megszüntetése
+
+10.177 2024.03.03 Lineáris leszármazotti lista legördülő menüjében a leszármazottak és felmenők kijelölése visszakerült.
+
+10.176 2024.03.03 Lineáris leszármazotti listában a sorrend csak kétféle(bementi/születési idő)
+
+10.175 2024.02.01 Leszármazotti lista javítása, ha a táblákat nem kapcsoljuk össze.
+
+10.174 2024.02.28 Leszármazotti gráfban a születési-halálozási idők is benne vannak
+
+10.173 2024.02.27 Leszármazotti gráf funkció a lineáris leszármazotti ablakban
+
+10.172 2024.02.11 A leszármazotti listák a ...lists\descendants_name alkönyvtárban
+
+10.171 2024.02.10 Hosszra rendezett leszármazotti szálak javítása.
+
+10.170 2024.02.06 Leszármazotti szálak sorrendje csökenő hosszúság
+
+10.170 2024.02.01 GEDCOM beolvasásnál a kis kezdőbetűs előnevek kezelése. (Komoróczy NAME esetén);
+
+10.169 2024.02.01 Felmenőknél és leszármazottaknál kis kezdőbetűs előnév opció. 
+
+10.168 2024.01.30 3 féle CRLF
+
+
+
+10.167 2024.01.29 GEDCOM beolvasásban a NAME feldolgozás igazítása a Komoróczy.ged-hez
+
+10.166 2024.01.28 GEDCOM adatbázis esetén a leszármazottak hívásának javítása az új programra.
+
+10.165 2024.01.27 <li>,<ol>,<\ol> után CRFL, leszármazotti lista pareméterablakának átrendezése
+
+10.164 2024.01.20 Az interaktív lineáris táblában a családnevek kiemelése
+
+10.163 2024.01.17 Leszármazotti és felmenői listák a ...list/descendans_x ill. ...list/ascendants_x mappában
+
+10.162 2024.01.16 Leszármazotti listában a CRLF és szóközök rendbetétele
+
+10.161 2024.01.15 Interaktív lineáris leszármazotti tábla 
+
+10.160 2024.01.11 Női leszáramzottak gyerekeinek családnevét is kezeli a beolvasásnál
+
+10.159 2024.01.10 Lineáris l.táblában a generációs hossz. ;/1 megszüntetése. Kisebb javítások
+
+10.158 2024.01.09 Lineáris leszármazotti lista sorrendjének javítása (generációk egyben vannak )
+
+10.157 2024.01.08 Leszárm,azotti lineáris táblában testvérek egymás után következnek.
+
+10.156 2024.01.04 Szóközök javítása a leszármazotti listán. Az összevonás->Kérdéses bejegyzések táblában színezés
+
+10.155 2024.01.02 Összevonáskor 4. táblában vannak ellentmondás mentes, de nem egyesíthető bejegyzések
+
+10.153 2024.01.02 Kézi összevonás javítása
+
+
+10.152 2024.01.01 A főnemesi cím összevonása
+
+
+
+// 10.151 2024.01.XX
+// Ismeretlen keresztnevek vizsgálatának, bevitelének átalakítása.
+// Házastársak felbontásának átalakítása
+
+
+#define VERSION 10.150
+
+// 10.150 2023.12.26
+// A kétféle összevonás megszünt. Ha nincs egyforma adat, akkor közös gyerek azonosságával az összevonást elvégzi.
+
+// 10.149 2023.12.21
+// Leszármazottakról 3 lista készül: SZLUHA, Lineáris, lineáris printable
+
+// 10.148 2023.12.08
+// Ribbon javítgatása
+
+
+// 10.147 2023.12.17
+// Ribbon módosítása az adatbázis forrása alapján
+/
+
+// 10. 146 2023.12.15
+// magyar nyelvű menü
+// képméretnek megfelelő ablak megnyitása
+
+
+
+10. 145 2023.12.14
+
+// Doc-View architektúrára áttérés
+// Felmenők rajzának kiírása fájlba.
+// Felmenő nevének, születési és halálozási évének megjelenítésa egér kattintásra
+// Felmenők leírásának javítása ( szóköz a név és posterios között)
+
+
+10.144 Felmenők rajzában a potok összekötése menüből.
+// A felemenők listájában a lemaradt leírás visszahelyezése.
+// A ritkított felmenői lista grafikus képe is elkészült.
+// Bal egérgomb dupla kattintása egy pontre megjeleníti a felmenő nevét
+
+
+// 10.143 2023.12.01
+// A felmenők grafikus képernyője. Még lehetne sok mouse funlciót megcsinálni.
+
+
+10.142 2023.11.27
+// A felmenők CListCtrl táblázatai jönnek létre, onnan lehet a htm fájlokat kérni. 
+// Felmenők lineáris html táblájában a többszöri házasságok fehér/feketével kiemelve.
+// Leszármazott gyerekek sorrendje választható 
+
+
+10.141   2023.11.xx
+// A lineáris felmenői táblába "anya" oszlop berakása az azonos apa és különböző anya jelzésére.
+// A leszármazotti és felmenői táblázat méretének és a fejléc méretének igazítása az aktuális screen felbontásához
+// A táblázatol leszármazotti tábláját is elkészíti a tabulált lista mellett.
+// Az "Információk->A programváltozásokról" alatt a változásokat mutatja ameg.
+// A leszármazotti szálak hosszúság szerinti rendezése 1 generáció mélységig.
+
+
+initial import
