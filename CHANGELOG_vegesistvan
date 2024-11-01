@@ -1,4 +1,8 @@
-11.232 2024.10.27 A lineáris lista paraméter ablak elkészítésének átalakítása
+11.234 2024.11.02 Kijelölt személy leszármazottainak szűrése javítva.
+
+11.233 2024.10.28 Családon belüli házasságok készítése a leszármazottak lineáris listájában
+
+11.230 2024.11.26 Kisérleti verzió, a lineáris leszármazottak paraméter-ablak elkészítésének lépéseinél kiírja az állapotot
 
 11.230 2024.11.26 leszármazotti hossznál a gyerek index (idC) csökkentése 1-el (mert 1-től kezdődik)
 
