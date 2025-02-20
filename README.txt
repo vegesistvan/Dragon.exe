@@ -1,0 +1,3 @@
+A Dragon Windows alatt futó genealogiai adatok adatbázisát kezelő program. Adatokat billenyőzetről, txt-, html- és GEDCOM-fájlból lehet bevinni. A személyekhez kapcsolódó képek, dokumentumok tárolására is alkalmas a program.
+Az adatok ellentmondás mentességének vizsgálatára különböző ellenőrzések állnak rendelkezésre. Felmenői és leszármazotti listákat lehet készíteni különböző formátumokban: tabulált és lineáris listákat valamint az Ahnenblatt program által használt grafikus felmenői táblázatban.
+A program és a hozzá tartozó fájlok (SQLite adatbázis kezelő, keresztnevek adatbázisa, stb) egy zip fájlban vannak tömörítve. A letöltött zip fájlt bontsuk ki egy tetszőleges könyvtárba és a dragon.exe máris indítható.
