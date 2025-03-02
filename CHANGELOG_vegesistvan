@@ -1,3 +1,4 @@
+v.272 2025.03.02 HTML beolvasás javítása és leszármazottak átírása
 v.271 2025.02.22 A szülő index javítása
 v.270 2025.02.20 A hibás szülő indexek javítása az editLines ablakban. A "lánya"/"fia" kimarad, eldobjuk.
 v.269 2025.02.19 html beolvasáskor a hibás szülőindexeket kiírja (az indexnek megfelelő házastárs nincs megadva)
