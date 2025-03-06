@@ -1,4 +1,9 @@
 A Dragon egy genealógia adatok tárolásáre, ellenőrzésre, karbantartására és különböző genealógiai listák előállítására szolgáló program.
 Az MS Windows alatt fut és az sqlite adatbáziskezelőt használja.
 Töltsök le a Dragon.exe-main.zip fájlt és bontsuk ki. A benne lévő Dragon.exe.main mappában lévő Dragon-files.zip fájt bontsuk ki egy tetszőleges könyvtárba.
-A Dragon.exe fájl mellett még jónéhány más fájl is van, amik szükségesek a program futtatásához. A Dragon.exe program máris indítható.
+A dragon mellett még jónéhány más fájl is van, amik szükségesek a program futtatásához. 
+
+A Dragon program fájlját txt kiterjesztéssel találjuk meg, mert az újabb Windows Defender program az exe fájlt vírusnak detektálja. Ezért letöltés után a dragon.txt fájlt
+át kell nevezni dragon.exe-re!! Hasonlóan a fájlok között található npp.8.7.7.Installer.x64.txt fájlt npp.8.7.7.Installer.x64.exe névre kell válltoztatni.
+
+
