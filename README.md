@@ -4,6 +4,6 @@ Töltsök le a Dragon.exe-main.zip fájlt és bontsuk ki. A benne lévő Dragon.
 A dragon mellett még jónéhány más fájl is van, amik szükségesek a program futtatásához. 
 
 A Dragon program fájlját txt kiterjesztéssel találjuk meg, mert az újabb Windows Defender program az exe fájlt vírusnak detektálja. Ezért letöltés után a dragon.txt fájlt
-át kell nevezni dragon.exe-re!! Hasonlóan a fájlok között található npp.8.7.7.Installer.x64.txt fájlt npp.8.7.7.Installer.x64.exe névre kell válltoztatni.
+át kell nevezni dragon.exe-re!! Hasonlóan a fájlok között található a notepad++.txt, amit notepad++.exe névre kell válltoztatni.
 
 
