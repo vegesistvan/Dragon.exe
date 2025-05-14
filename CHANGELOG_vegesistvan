@@ -1,3 +1,5 @@
+v.3.8 2025.05.14 Ismeretlen keresztnév miatti abortálás javítása. 
+
 v.3.7 2025.05.05 Ismérlődő felmenőket üresen hagyni a lineáris felmenői listában
 
 v.3.6 2025.05.04 A shared library-ról a static library-re váltás.
