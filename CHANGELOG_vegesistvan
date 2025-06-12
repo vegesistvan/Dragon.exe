@@ -1,3 +1,5 @@
+v. 3.18 2025.06.12 A bemeneti htm sorokból bárhol előforduló html-tag-eket eltávolítja. Továbbá a bemeneti UTF8BOM formátum kezelése. 
+
 v. 3.17 2025.06.11 Különböző leszármazotti listák paraméterezésének javítása
 
 v. 3.16 2025.06.09 Különböző leszármazotti listák paramétereinek elkülönítése
