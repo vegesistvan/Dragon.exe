@@ -1,3 +1,5 @@
+v.26 2025.09.23 ns cím öröklődésének javítása (a comment-ből is leszedi az ns-t)
+
 v.25 2025.09.23 nc cím is öröklődik        
 
 v.24 2025.09.15 Gyerekek születési idő szerinti új rendezése a lineáris táblákban is.
