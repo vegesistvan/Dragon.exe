@@ -1,3 +1,5 @@
+v.31 2025.10.19 Módosult strukturájú adatbázis megnyitásakor a végtelen ciklus megszüntetése.
+
 v.30 2025.10.18 Programverzió tartalmazza a fordítási dátumot 
 
 v.30 2025.10.11 'nemes' cím feldolgozása beolvasáskor. Anyaindex javítása a leszármazottaknál.
