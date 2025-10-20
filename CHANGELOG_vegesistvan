@@ -1,3 +1,5 @@
+v.33 2025.10.20 A leszármazotti listákon a főnemesi/nemesi címek kiírása csak a leszármazottra vonatkozik
+
 v.32 2025.10.19 Rejtélyes if(theApp.m_log) hibás végrehajtása.
 
 v.31 2025.10.19 Módosult strukturájú adatbázis megnyitásakor a végtelen ciklus megszüntetése.
